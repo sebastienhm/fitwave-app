@@ -13,7 +13,7 @@
     "cloudinary-core": "^2.5.0",
     "cloudinary-react": "^1.0.6",
     "eslint": "^4.19.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "prop-types": "^15.6.2",
     "query-string": "^6.2.0",
     "react": "^16.6.0",
